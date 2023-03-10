@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Dear Diary/2023-03-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,12 +176,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0bcf5f898ce02ac0",
+  "active": "63df8fe437badc18",
   "lastOpenFiles": [
+    "README.md",
     "Dear Diary/template of diary.md",
     "Dear Diary/2023-03-02.md",
     "VipSkill/VipSkill-p1课程笔记.md",
-    "README.md",
     "Dear Diary",
     "未命名.canvas",
     "VipSkill"
