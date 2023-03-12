@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "12bef2ba02ff70cc",
+            "id": "258a2a02f208893e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VipSkill/Test.md",
+                "file": "VipSkill/备用材料储存位置.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 222.5
   },
   "right": {
     "id": "ae468a0714e6500c",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VipSkill/Test.md",
+                "file": "VipSkill/备用材料储存位置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VipSkill/Test.md",
+                "file": "VipSkill/备用材料储存位置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VipSkill/Test.md"
+                "file": "VipSkill/备用材料储存位置.md"
               }
             }
           },
@@ -175,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 441.5
+    "width": 311.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,13 +189,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "12bef2ba02ff70cc",
+  "active": "5080ffb57acc040d",
   "lastOpenFiles": [
     "VipSkill/VipSkill-p1课程笔记.md",
-    "VipSkill/Test.md",
+    "VipSkill/备用材料储存位置.md",
+    "Dear Diary/2023-03-12.md",
+    "VipSkill/Z.md",
     "Dear Diary/2023-03-02.md",
     "Dear Diary/2023-03-11.md",
-    "Dear Diary/2023-03-12.md",
     "Dear Diary/template of diary.md",
     "README.md",
     "Dear Diary",
