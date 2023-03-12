@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "173068bbdf54cc8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dear Diary/2023-03-12.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VipSkill/备用材料储存位置.md",
+                "file": "Dear Diary/2023-03-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VipSkill/备用材料储存位置.md",
+                "file": "Dear Diary/2023-03-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VipSkill/备用材料储存位置.md"
+                "file": "Dear Diary/2023-03-12.md"
               }
             }
           },
@@ -189,9 +201,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5080ffb57acc040d",
+  "active": "173068bbdf54cc8b",
   "lastOpenFiles": [
+    "信息/邮箱.md",
     "VipSkill/VipSkill-p1课程笔记.md",
+    "信息",
     "VipSkill/备用材料储存位置.md",
     "Dear Diary/2023-03-12.md",
     "VipSkill/Z.md",
