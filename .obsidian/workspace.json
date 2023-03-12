@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dear Diary/2023-03-12.md",
+                "file": "Dear Diary/2023-03-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "ae468a0714e6500c",
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dear Diary/2023-03-12.md",
+                "file": "Dear Diary/2023-03-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dear Diary/2023-03-12.md",
+                "file": "Dear Diary/2023-03-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dear Diary/2023-03-12.md"
+                "file": "Dear Diary/2023-03-02.md"
               }
             }
           },
@@ -162,7 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 441.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,19 +172,17 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "workspaces:管理工作区布局": false
+      "workspaces:管理工作区布局": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "63df8fe437badc18",
   "lastOpenFiles": [
-    "Dear Diary/2023-03-11.md",
     "Dear Diary/2023-03-12.md",
-    "VipSkill/VipSkill-p1课程笔记.md",
-    "未命名",
-    "VipSkill/未命名",
-    "Dear Diary/2023-03-02.md",
-    "Dear Diary/未命名.md",
+    "Dear Diary/2023-03-11.md",
     "Dear Diary/template of diary.md",
+    "VipSkill/VipSkill-p1课程笔记.md",
+    "Dear Diary/2023-03-02.md",
     "README.md",
     "Dear Diary",
     "未命名.canvas",
