@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "12bef2ba02ff70cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VipSkill/Test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0bcf5f898ce02ac0",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VipSkill/VipSkill-p1课程笔记.md",
+                "file": "VipSkill/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VipSkill/VipSkill-p1课程笔记.md",
+                "file": "VipSkill/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VipSkill/VipSkill-p1课程笔记.md"
+                "file": "VipSkill/Test.md"
               }
             }
           },
@@ -176,13 +189,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "63df8fe437badc18",
+  "active": "12bef2ba02ff70cc",
   "lastOpenFiles": [
+    "VipSkill/VipSkill-p1课程笔记.md",
+    "VipSkill/Test.md",
     "Dear Diary/2023-03-02.md",
     "Dear Diary/2023-03-11.md",
     "Dear Diary/2023-03-12.md",
     "Dear Diary/template of diary.md",
-    "VipSkill/VipSkill-p1课程笔记.md",
     "README.md",
     "Dear Diary",
     "未命名.canvas",
