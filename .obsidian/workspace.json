@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VipSkill/VipSkill-p1课程笔记.md",
+                "file": "Dear Diary/2023-03-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,33 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0bcf5f898ce02ac0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dear Diary/2023-03-02.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "173068bbdf54cc8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "信息/邮箱.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "信息/邮箱.md",
+                "file": "Dear Diary/2023-03-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "信息/邮箱.md",
+                "file": "Dear Diary/2023-03-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "信息/邮箱.md"
+                "file": "Dear Diary/2023-03-13.md"
               }
             }
           },
@@ -201,15 +176,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "173068bbdf54cc8b",
+  "active": "63df8fe437badc18",
   "lastOpenFiles": [
-    "VipSkill/Z.md",
-    "VipSkill/备用材料储存位置.md",
-    "VipSkill/VipSkill-p1课程笔记.md",
-    "信息/邮箱.md",
-    "Dear Diary/2023-03-02.md",
-    "Dear Diary/2023-03-11.md",
     "Dear Diary/2023-03-12.md",
+    "Dear Diary/2023-03-13.md",
+    "信息/邮箱.md",
+    "VipSkill/备用材料储存位置.md",
+    "VipSkill/Z.md",
+    "Dear Diary/2023-03-02.md",
+    "VipSkill/VipSkill-p1课程笔记.md",
+    "Dear Diary/2023-03-11.md",
     "信息",
     "Dear Diary/template of diary.md",
     "README.md",
